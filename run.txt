@@ -1,0 +1,5 @@
+uruchomienie kontenera
+docker run -p 8080:8080 -t dockerexample
+
+budowanie images
+mvn clean package docker:build
