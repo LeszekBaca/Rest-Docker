@@ -1,0 +1,3 @@
+com\api\rest\RestApplication.class
+com\api\rest\Person.class
+com\api\rest\RestRepository.class
